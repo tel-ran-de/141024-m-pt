@@ -17,7 +17,7 @@
 # 3. Установка Django
 # Когда виртуальная среда активирована, можно установить Django с помощью `pip`.
 # pip install django
-# python -m pip install djangop
+# python -m pip install django
 #
 # 4. Проверка установки Django
 # После установки Django проверьте его версию, чтобы убедиться, что установка прошла успешно.
@@ -29,3 +29,5 @@
 #
 #  pip install -r requirements.txt - установит все библиотеки с указанными версиями из файла requirements.txt
 # После завершения работы в виртуальной среде, её можно деактивировать: deactivate
+
+# pip freeze
