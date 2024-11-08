@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice",
+    "age": 25,
+    "city": "Manchester",
+    "is_student": false
+  },
+  {
+    "name": "Bob",
+    "age": 30,
+    "city": "London",
+    "is_student": true
+  },
+  {
+    "name": "Charlie",
+    "age": 35,
+    "city": "Paris",
+    "is_student": false
+  },
+  {
+    "name": "David",
+    "age": 40,
+    "city": "Berlin",
+    "is_student": true
+  }
+]
