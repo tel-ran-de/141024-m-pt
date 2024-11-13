@@ -1,0 +1,5 @@
+Line from file 2: Orange
+Line from file 2: Pear
+Line from file 2: Grape
+Line from file 2: Fig
+Line from file 2: Kiwi
