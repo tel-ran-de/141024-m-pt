@@ -1,5 +1,0 @@
-Line from file 1: Apple
-Line from file 1: Banana
-Line from file 1: Cherry
-Line from file 1: Date
-Line from file 1: Elderberry
