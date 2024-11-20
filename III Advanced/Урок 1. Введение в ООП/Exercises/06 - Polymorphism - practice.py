@@ -26,6 +26,7 @@ class Refrigerator(Appliance):
         print("Refrigerator is now cooling.")
 
 
+<<<<<<< HEAD
 
 # Демонстрация полиморфизма
 if __name__ == '__main__':
@@ -35,6 +36,8 @@ if __name__ == '__main__':
         appliance.turn_on()  # Вызов метода turn_on для каждого прибора
 
 
+=======
+>>>>>>> 18af0241bd7aced7e5c37ce4b91c305fa9274a1a
 # #### Задание 2:
 # Создайте базовый класс `Employee` с методом `calculate_pay`,
 # который должен быть переопределен в производных классах `SalariedEmployee` и `HourlyEmployee`.
@@ -43,5 +46,14 @@ if __name__ == '__main__':
 # Продемонстрируйте полиморфизм, вызвав метод `calculate_pay` для объектов различных классов.
 
 
+<<<<<<< HEAD
 
 
+=======
+# Демонстрация полиморфизма
+if __name__ == '__main__':
+    appliances = [WashingMachine(), Refrigerator()]
+
+    for appliance in appliances:
+        appliance.turn_on()  # Вызов метода turn_on для каждого прибора
+>>>>>>> 18af0241bd7aced7e5c37ce4b91c305fa9274a1a
